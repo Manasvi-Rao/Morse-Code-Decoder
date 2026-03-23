@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"S1",1," Pushbutton"
+"R1",1,"10 kΩ Resistor"
+"C1",1,"0.1 uF Capacitor"
+"U2",1," Inverting Schmitt Trigger"
