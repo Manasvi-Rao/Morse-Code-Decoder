@@ -8,6 +8,9 @@ Inspired by the intersection of early telecommunications and cryptography, this 
 ### Circuit Diagram
 [![Circuit Diagram](circuit/Circuit-diagram.png)](circuit/Circuit-diagram.png)
 
+### Tinkercad Simulation
+https://www.tinkercad.com/things/eg140nQWhin-decodermorse
+
 ### Schematic View
 [Schematic View (PDF)](circuit/Schematic-view.pdf)
 
